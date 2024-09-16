@@ -1,6 +1,6 @@
 ## Thanks for viewing my profile! 🐙
 
-I am a Data Scientist based in Berlin with a fondness for Natural Langauge Processing, as it brings together both of my favorite hobbies: Computers, and Languages. 
+I am a Data Scientist based in Berlin with a fondness for Natural Langauge Processing, as it brings together some of my favorite hobbies: Computers, and Languages. 
 
 - 🔭 I’m currently *working* on developing LLM-powered assistants for Microsoft Dynamics 365 Contact Center. 
 - 🌱 I’m currently *learning* iOS development with swift, developping my own side-project.
