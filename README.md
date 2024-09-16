@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thanks for viewing my profile! 🐙
 
 I am a Data Scientist based in Berlin with a fondness for Natural Langauge Processing, as it brings together both of my favorite hobbies: Computers, and Languages. 
 
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+Former username: `@psawa`
