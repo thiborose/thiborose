@@ -2,7 +2,7 @@
 
 I am a **Data Scientist** based in Berlin with a fondness for Natural Language Processing (NLP), as it brings together some of my favorite hobbies: computers, and human languages.
 
-- 🧑‍💻 Current occupation: experimenting with **LLMs** to build smarter assistants. 
+- 🧑‍💻 Current occupation: experimenting with **LLMs** to build smarter assistants.
 
 - 🌱 Current Related Interests: learning **iOS development** with **SwiftUI**.
 
@@ -19,6 +19,7 @@ I then expanded my expertise to the development of multi-channel chatbots (text,
 
 As the LLM hype arose, I started working with Microsoft on the _Dynamics 365 Contact Center_ application. My role focuses on leveraging LLM capabilities to build features that enhance customer service efficiency by empowering agents with AI-driven tools.
 
+_(My commits related to work are not visible on this github account)_. 
 
 ---
 Former username: `@psawa`
