@@ -1,10 +1,12 @@
-**🐙 Thanks for viewing my profile!** 
+### 🐙 Thanks for viewing my profile!
 
 I am a **Data Scientist** based in Berlin with a fondness for Natural Language Processing (NLP), as it brings together some of my favorite hobbies: computers, and human languages.
 
-- 🧑‍💻 _Current occupation_: experimenting with LLMs to build smarter assistants. 
-- 🌱 _Current Related Interests_: *learning* iOS development with SwiftUI.
-- 📫 _How to reach me_: `thibo.rosemplatt@gmail.com`
+- 🧑‍💻 Current occupation: experimenting with **LLMs** to build smarter assistants. 
+
+- 🌱 Current Related Interests: learning **iOS development** with **SwiftUI**.
+
+- 📫 How to reach me: `thibo.rosemplatt@gmail.com`
 <!-- ⭐️ _Current Hobbies_: Music production, photography, -->
 ---
 
