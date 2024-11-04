@@ -17,7 +17,7 @@ I started working in the industry with work involving the fine-tuning of languag
 
 I then expanded my expertise to the development of multi-channel chatbots (text, voice, DTMF) for contact centers. This work involved training and fine-tuning Automatic Speech Recognition (ASR) and Natural Language Understanding (NLU) models, as well as designing complex conversational architectures.
 
-As the LLM hype arose, I started working with Microsoft on the _Dynamics 365 Contact Center_ application. My role focuses on leveraging LLM capabilities to build features that enhance customer service efficiency by empowering agents with AI-driven tools.
+As the collective interest for LLM arose in the industry, I started working with Microsoft on the _Dynamics 365 Contact Center_ application. My role focuses on leveraging LLM capabilities to build features that enhance customer service efficiency by empowering agents with AI-driven tools.
 
 _(My commits related to work are not visible on this github account)_. 
 
