@@ -6,10 +6,10 @@ I am a **Data Scientist** based in Berlin with a fondness for Natural Language P
 
 - 🌱 Related Interests: Building apps for the Apple ecosystem with **SwiftUI**.
 
-- ⭐️ Unrelated Interests: Music production, chess.
+- ⭐️ Unrelated Interests: music production, chess.
 
 - 📫 How to reach me: `thibo.rosemplatt@gmail.com`.
 
 ---
 
-_(My commits related to work are not visible on this github account)_. 
+_(My work commits are not visible on this github account)_. 
