@@ -1,14 +1,12 @@
 ### 🐙 Thanks for viewing my profile!
 
-I am a **Data Scientist** based in Berlin with a fondness for Natural Language Processing (NLP), as it brings together some of my favorite hobbies: computers, and human languages.
+I am a **Data Scientist** with a fondness for Natural Language Processing (NLP).
 
 - 🧑‍💻 Occupation: Building end-to-end AI systems.
 
 - 🌱 Related Interests: Building apps for the Apple ecosystem with **SwiftUI**.
 
 - ⭐️ Unrelated Interests: music production, chess.
-
-- 📫 How to reach me: `thibo.rosemplatt@gmail.com`.
 
 ---
 
